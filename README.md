@@ -1,4 +1,4 @@
-Hi, I'm @gustasdirgela. Follow my journey through the cloud. 
+@gustasdirgela
 
 
 <!---
